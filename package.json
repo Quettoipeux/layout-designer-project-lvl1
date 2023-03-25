@@ -1,5 +1,5 @@
 {
-  "name": "html5-css-boilerplate",
+  "name": "layout-designer-project-lvl1",
   "version": "0.1.0",
   "description": "HTML5/CSS Boilerplate with HTMLHint and StyleLint",
   "repository": {
@@ -13,8 +13,11 @@
     "stylelint-config-standard": "^30.0.1",
     "stylelint-config-standard-scss": "^7.0.1",
     "stylelint-scss": "^4.4.0",
-    "surge": "^0.23.1"
+    "surge": "^0.0.0"
   },
-  "author": "Nikita Mikhaylov",
-  "license": "ISC"
+  "author": "Mariia Taupeko",
+  "license": "ISC",
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  }
 }
